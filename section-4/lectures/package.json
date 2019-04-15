@@ -8,5 +8,8 @@
     "start": "node app.js"
   },
   "author": "Haris Spahija <haris.spahija@gmail.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.18.11"
+  }
 }
