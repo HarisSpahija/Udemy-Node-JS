@@ -10,7 +10,8 @@
             "name": "Launch Program",
             "program": "${workspaceFolder}/section-4/lectures/app.js",
             "restart": true,
-            "runtimeExecutable": "nodemon"
+            "runtimeExecutable": "nodemon",
+            "console": "integratedTerminal"
         }
     ]
 }
