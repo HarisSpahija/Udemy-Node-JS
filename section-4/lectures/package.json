@@ -9,7 +9,8 @@
   },
   "author": "Haris Spahija <haris.spahija@gmail.org>",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "nodemon": "^1.18.11"
   }
 }
